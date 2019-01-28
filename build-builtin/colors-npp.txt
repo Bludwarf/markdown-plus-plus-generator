@@ -1,0 +1,4 @@
+génération du userDefinedLang-markdown.zenburn.modern.xml à partir de Zenburn.xml > NotepadPlus/GlobalStyles/WidgetStyle[@styleID=...] :
+
+DEFAULT, KEYWORDS8, FOLDER IN CODE1, FOLDER IN CODE2, FOLDER IN COMMENT, DELIMITERS8 << 0
+
